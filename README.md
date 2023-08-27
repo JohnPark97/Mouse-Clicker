@@ -34,5 +34,3 @@ Feel free to fork the repository and submit pull requests for any enhancements, 
 
 License
 This project is open source. Feel free to use, modify, and distribute the code.
-
-Remember, this is a basic README. Depending on the audience and the complexity of your game, you might want to include more details, screenshots, known issues, future enhancements, etc.
